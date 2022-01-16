@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ***
 * 🌱: I started to regularly participate in competitive programming contests.
-  - My codeforces profile: [Shutr](https://codeforces.com/profile/shutr)
+  - My codeforces profile: [kareka](https://codeforces.com/profile/shutr)
    - My codechef profile: [Kareka](https://www.codechef.com/users/kareka)
 
 ***
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ***
 * 🌱▶️: I created some YouTube videos on Linux to improve my communication skills and my knowledge.
-    - My channel: [TechGeeks](https://www.youtube.com/channel/UCtgkdFJCukgiL7boSS9pRbg)
+    - My channel: [kareka](https://www.youtube.com/channel/UCtgkdFJCukgiL7boSS9pRbg)
